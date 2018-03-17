@@ -12,3 +12,8 @@ Some of the main features are:
 7. AXI Light interface for registers
 8. AXI Streaming interface for data
 
+
+March 17, 2018
+First Release !
+Should be mostly complete, except AC97 is not there yet.
+User manual and test bench still need some work as well.
